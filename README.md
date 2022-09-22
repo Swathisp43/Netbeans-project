@@ -20,6 +20,7 @@ Screenshots:
 
 ![image](https://user-images.githubusercontent.com/82129678/191804987-679ccad9-f670-4506-8234-085ef07a715e.png)
 
-This is mini project using Json
+This is mini project using Json:
+
 ![image](https://user-images.githubusercontent.com/82129678/191806261-7f902a2e-bfbc-4af7-907f-0deadf505717.png)
 
