@@ -3,6 +3,9 @@ JsonPowerDB:
 
 JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Serverless, ready to Use, Real-time Database. Easy and fast to develop database applications without using server-side programming/scripting or installing any kind of database.
 
+
+Benifits:
+
 Simplest way to retrieve data in JSON format.
 
 It is built on top of one of the fastest and most real-time data indexing engine-PowerIndex.
